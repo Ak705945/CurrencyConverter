@@ -7,5 +7,6 @@ It uses an external api to get diffrent conversion rates for currencies and conv
 It made using React.JS and Google Material UI for frontend part.
 <br>
 <H1>Preview
-  ![Screenshot (418)](https://user-images.githubusercontent.com/72501596/115889845-f1cdfb00-a471-11eb-9cb9-63b735bb9f1d.png)
+ 
+ ![Screenshot (418)](https://user-images.githubusercontent.com/72501596/115890013-1f1aa900-a472-11eb-8fdb-d8b6f7b5e2f8.png)
 
