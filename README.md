@@ -5,6 +5,7 @@ It is a currency conversion app which converts indian rupees to an other Currenc
 It uses an external api to get diffrent conversion rates for currencies and convert them.
 <br>
 It made using React.JS and Google Material UI for frontend part.
+Link for project :https://csb-w6oqz.netlify.app/
 <br>
 <H1>Preview
  
